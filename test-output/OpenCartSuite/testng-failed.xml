@@ -7,20 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="crome"/>
     <classes>
-      <class name="testCases.TC_002_LogInTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="tc_002_logInTest"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC_002_LogInTest -->
-      <class name="testCases.TC_003_LogInDDT">
+      <class name="testCases.TC_001_AccountRegistrationTest">
         <methods>
           <include name="teardown"/>
           <include name="setup"/>
-          <include name="test_logInDDT" invocation-numbers="0 1 2 3 4"/>
+          <include name="test_account_registration"/>
         </methods>
-      </class> <!-- testCases.TC_003_LogInDDT -->
+      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [OpenCartSuite] -->

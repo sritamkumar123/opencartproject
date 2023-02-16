@@ -1,12 +1,14 @@
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\pageObjects\BasePage.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\testCases\TC_003_LogInDDT.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\testCases\TC_001_AccountRegistrationTest.java
-C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\testCases\TC_002_LogInTest.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\pageObjects\AccountRegistrationPage.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\pageObjects\HomePage.java
+C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\utilities\ExcelUtility.java
+C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\pageObjects\LogInPage.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\utilities\DataProviders.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\utilities\ExtentReportManager.java
-C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\utilities\ExcelUtility.java
+C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\testCases\TC__004_Search.java
+C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\testCases\TC__005_AdvanceSearch.java
 C:\Users\SRITAMLINKAN\eclipse-workspace\opencart.jan10\src\test\java\testBase\BaseClass.java
