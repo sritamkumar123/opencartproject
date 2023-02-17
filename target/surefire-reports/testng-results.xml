@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-16T21:19:34 IST" name="OpenCartSuite" finished-at="2023-02-16T21:19:37 IST" duration-ms="2953">
+  <suite started-at="2023-02-17T17:57:34 IST" name="OpenCartSuite" finished-at="2023-02-17T17:57:40 IST" duration-ms="5671">
     <groups>
       <group name="regression">
         <method signature="TC_001_AccountRegistrationTest.test_account_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" name="test_account_registration" class="testCases.TC_001_AccountRegistrationTest"/>
@@ -11,9 +11,9 @@
         <method signature="TC_001_AccountRegistrationTest.test_account_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" name="test_account_registration" class="testCases.TC_001_AccountRegistrationTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2023-02-16T21:19:34 IST" name="Test" finished-at="2023-02-16T21:19:37 IST" duration-ms="2953">
+    <test started-at="2023-02-17T17:57:34 IST" name="Test" finished-at="2023-02-17T17:57:40 IST" duration-ms="5671">
       <class name="testCases.TC_001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" started-at="2023-02-16T21:19:35 IST" name="setup" finished-at="2023-02-16T21:19:36 IST" duration-ms="1854" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" started-at="2023-02-17T17:57:34 IST" name="setup" finished-at="2023-02-17T17:57:38 IST" duration-ms="4199" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,11 +24,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" started-at="2023-02-16T21:19:36 IST" name="test_account_registration" finished-at="2023-02-16T21:19:37 IST" duration-ms="830" status="PASS">
+        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" started-at="2023-02-17T17:57:38 IST" name="test_account_registration" finished-at="2023-02-17T17:57:40 IST" duration-ms="1149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_account_registration -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" started-at="2023-02-16T21:19:37 IST" name="teardown" finished-at="2023-02-16T21:19:37 IST" duration-ms="114" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@6ca8564a]" started-at="2023-02-17T17:57:40 IST" name="teardown" finished-at="2023-02-17T17:57:40 IST" duration-ms="133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
